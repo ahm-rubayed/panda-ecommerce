@@ -3,3 +3,11 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+section {
+    margin: 5rem 0;
+}
+
+.panda-bg-info {
+    background-color: #fceae8;
+}
